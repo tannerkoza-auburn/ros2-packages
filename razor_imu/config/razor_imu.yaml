@@ -1,5 +1,0 @@
-/razor_imu/imu:
-  ros_parameters:
-    default_port: "/dev/ttyUSB0"
-    baud_rate: 115200
-    imu_topic: "test_imu"
