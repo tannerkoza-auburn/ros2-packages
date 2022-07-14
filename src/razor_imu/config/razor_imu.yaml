@@ -1,6 +1,0 @@
-/razor_imu:
-  ola_imu:
-    ros__parameters:
-      default_port: "/dev/ttyUSB0"
-      baud_rate: 115200
-      imu_topic: "ola_imu"
