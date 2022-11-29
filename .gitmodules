@@ -2,3 +2,7 @@
 	path = razorcpp
 	url = git@github.com:gavlab-TA/razorcpp.git
 	branch = master
+[submodule "src/serial"]
+	path = src/serial
+	url = git@github.com:wjwwood/serial.git
+	branch = main
